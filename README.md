@@ -13,14 +13,27 @@ In this repository we collect touch bar presets. Feel free to send me any pull-r
 
 ![Screenshot](vas3k/screenshot.png?raw=true)
 
-- Preset: [vas3k_btt_v2.json](vas3k/vas3k_btt_v2.json)
+Widgets:
+- Smart Finder: opens a new Finder window in any situation
+- Sublime and Notes: just shortcuts
+- Spotify Now Playing: shows the name of the track currently playing in Spotify
+- VK Now Playing: same but for VK
+- Top reminder from Reminders.app
+- Weather widget: temperature in current location (install [JSON Helper](https://itunes.apple.com/ru/app/json-helper-for-applescript/id453114608?l=en&mt=12) and [Location Helper](https://itunes.apple.com/ru/app/location-helper-for-applescript/id488536386?mt=12) to make it work)
+- Coffee Break: lock screen button :)
+- Smart Play button: controls only Spotify and iTunes, not that shit that macOS High Sierra do
+
+Preset: [vas3k_btt_v2.json](vas3k/vas3k_btt_v2.json)
 
 
 ### @ad
 
 ![Screenshot](ad/screenshot.png?raw=true)
 
-- Preset: [ad_btt.json](ad/ad_btt.json)
+Widgets:
+- TODO
+
+Preset: [ad_btt.json](ad/ad_btt.json)
 
 
 ### @ReDetection
@@ -28,7 +41,10 @@ In this repository we collect touch bar presets. Feel free to send me any pull-r
 ![Screenshot 1](redetection/screenshot1.png?raw=true)
 ![Screenshot 1](redetection/screenshot2.png?raw=true)
 
-- Preset: [redetection_v1.1.json](redetection/redetection_v1.1.json)
+Widgets:
+- TODO
+
+Preset: [redetection_v1.1.json](redetection/redetection_v1.1.json)
 
 
 
