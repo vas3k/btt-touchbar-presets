@@ -52,6 +52,14 @@ Widgets:
 - Auto-hidden next track button
 
 
+### @toxblh: [toxblh.json](toxblh/toxblh.json)
+
+![Screenshot 1](toxblh/TouchBarShot.png?raw=true)
+
+Widgets:
+- Weather widget with emoji icons
+- Now playing show differts icon for spotify and iTunes
+
 ## Useful links
 
 * [My blog post (RU)](http://vas3k.ru/blog/touchbar/)
