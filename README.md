@@ -1,6 +1,6 @@
 # BetterTouchTool Touch Bar Presets
 
-In this repository we collect touch bar presets. Feel free to send me any pull-requests with your own configs. Do not forget to attach a screenshot (⇧⌘6).
+In this repository we collect touch bar presets for [BetterTouchTool](https://boastr.net). Feel free to send pull-requests with your own configs. Do not forget to attach a screenshot (⇧⌘6).
 
 ![Screenshot](static/logo.jpg?raw=true)
 
@@ -11,7 +11,8 @@ In this repository we collect touch bar presets. Feel free to send me any pull-r
 
 ### @vas3k
 
-![Screenshot](vas3k/screenshot.png?raw=true)
+![Screenshot1](vas3k/screenshot.png?raw=true)
+![Screenshot2](vas3k/screenshot2.png?raw=true)
 
 Widgets:
 - Smart Finder: opens a new Finder window in any situation
