@@ -40,13 +40,21 @@ Preset: [ad_btt.json](ad/ad_btt.json)
 ### @ReDetection
 
 ![Screenshot 1](redetection/screenshot1.png?raw=true)
-![Screenshot 1](redetection/screenshot2.png?raw=true)
+![Screenshot 2](redetection/screenshot2.png?raw=true)
 
 Widgets:
 - TODO
 
 Preset: [redetection_v1.1.json](redetection/redetection_v1.1.json)
 
+
+### @podkovyrin
+
+![Screenshot 1](podkovyrin/screenshot1.png?raw=true)
+![Screenshot 2](podkovyrin/screenshot2.png?raw=true)
+![Screenshot 3](podkovyrin/screenshot3.png?raw=true)
+
+Preset: [podkovyr_btt.json](podkovyrin/podkovyr_btt.json)
 
 
 ## Useful links
