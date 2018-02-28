@@ -28,6 +28,12 @@ Widgets:
 
 ![Screenshot](ad/screenshot.png?raw=true)
 
+Version 2 (with sliders):
+
+[ad_btt_v2.json](ad/ad_btt_v2.json)
+
+![Screenshot](ad/screenshot_v2.png?raw=true)
+
 Widgets:
 - Weather widget with emoji icons
 
