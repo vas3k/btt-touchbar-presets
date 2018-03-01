@@ -34,8 +34,12 @@ Version 2 (with sliders):
 
 ![Screenshot](ad/screenshot_v2.png?raw=true)
 
-Widgets:
-- Weather widget with emoji icons
+Version 3 (System info group, battery info is moved to the group to reduce the consumption of system resources):
+
+[ad_btt_v3.json](ad/ad_btt_v3.json)
+
+![Screenshot](ad/screenshot_1_v3.png?raw=true)
+![Screenshot](ad/screenshot_2_v3.png?raw=true)
 
 
 ### @ReDetection: [redetection_v1.1.json](redetection/redetection_v1.1.json)
