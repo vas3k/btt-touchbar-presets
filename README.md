@@ -62,13 +62,22 @@ Widgets:
 - Auto-hidden next track button
 
 
-### @toxblh: [toxblh.json](toxblh/toxblh.json)
+### [@toxblh](https://github.com/Toxblh/btt-touchbar-preset): [toxblh.json](toxblh/toxblh.json)
 
-![Screenshot 1](toxblh/TouchBarShot.png?raw=true)
+![Screenshot 1](toxblh/TouchBarShot_v1.png?raw=true)
+![Screenshot 2](toxblh/TouchBarShot.png?raw=true)
 
 Widgets:
-- Weather widget with emoji icons
-- Now playing show differts icon for spotify and iTunes
+Presets:
+1. Finder
+2. Bright up/down
+3. What now playing for iTunes, Spotify and VOX. Next by press.
+4. I want a coffee!
+5. Weather - Local the weather
+6. Volume up/down
+7. Play/Pause - Work only with iTunes, Spotify and VOX
+9. Battery status
+10. Time - simple a time
 
 ## Useful links
 
