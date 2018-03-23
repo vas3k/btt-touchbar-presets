@@ -65,6 +65,8 @@ Widgets:
 ### [@toxblh](https://github.com/Toxblh/btt-touchbar-preset): [toxblh.json](toxblh/toxblh.json)
 
 ![Screenshot 1](toxblh/TouchBarShot_v1.png?raw=true)
+Version 1: [toxblh_v1.json](toxblh/toxblh_v1.json)
+
 ![Screenshot 2](toxblh/TouchBarShot.png?raw=true)
 
 Widgets:
