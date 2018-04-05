@@ -5,6 +5,12 @@ Here we collect cool touch bar presets for [BetterTouchTool](https://boastr.net)
 ![Screenshot](static/logo.jpg?raw=true)
 
 
+## Installation
+
+After installing BetterTouchTool, you can import/export configurations from the Manage Presets button.
+
+![Screenshot](static/install.jpg?raw=true)
+
 
 ## Presets
 
