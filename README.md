@@ -34,8 +34,18 @@ Widgets:
 
 ![Screenshot](ad/screenshot.png?raw=true)
 
-Widgets:
-- Weather widget with emoji icons
+Version 2 (with sliders):
+
+[ad_btt_v2.json](ad/ad_btt_v2.json)
+
+![Screenshot](ad/screenshot_v2.png?raw=true)
+
+Version 3 (System info group, battery info is moved to the group to reduce the consumption of system resources):
+
+[ad_btt_v3.json](ad/ad_btt_v3.json)
+
+![Screenshot](ad/screenshot_1_v3.png?raw=true)
+![Screenshot](ad/screenshot_2_v3.png?raw=true)
 
 
 ### @ReDetection: [redetection_v1.1.json](redetection/redetection_v1.1.json)
@@ -57,6 +67,25 @@ Widgets:
 Widgets:
 - Auto-hidden next track button
 
+
+### [@toxblh](https://github.com/Toxblh/btt-touchbar-preset): [toxblh.json](toxblh/toxblh.json)
+
+![Screenshot 1](toxblh/TouchBarShot_v1.png?raw=true)
+Version 1: [toxblh_v1.json](toxblh/toxblh_v1.json)
+
+![Screenshot 2](toxblh/TouchBarShot.png?raw=true)
+
+Widgets:
+Presets:
+1. Finder
+2. Bright up/down
+3. What now playing for iTunes, Spotify and VOX. Next by press.
+4. I want a coffee!
+5. Weather - Local the weather
+6. Volume up/down
+7. Play/Pause - Work only with iTunes, Spotify and VOX
+9. Battery status
+10. Time - simple a time
 
 ## Useful links
 
