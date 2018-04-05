@@ -75,7 +75,8 @@ Version 1: [toxblh_v1.json](toxblh/toxblh_v1.json)
 
 ![Screenshot 2](toxblh/TouchBarShot.png?raw=true)
 
-Widgets:
+Widgets:  
+
 Presets:
 1. Finder
 2. Bright up/down
@@ -86,6 +87,25 @@ Presets:
 7. Play/Pause - Work only with iTunes, Spotify and VOX
 9. Battery status
 10. Time - simple a time
+
+### @surpher: [xcode-dev.json](surpher/xcode-dev.json)
+
+![Screenshot](surpher/xcode-dev.png)
+
+Widgets:
+1. Now playing for iTunes, tap to _Next_
+2. YouTube playing in Safari
+
+Presets:
+1. Finder
+2. Xcode
+3. Git-Tower
+4. iTerm2
+5. iTunes/YouTube widget
+6. Coffee time!
+7. Volume down/up
+8. Mute/Unmute
+9. Play/Pause
 
 ## Useful links
 
