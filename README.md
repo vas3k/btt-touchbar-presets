@@ -110,7 +110,8 @@ Presets:
 
 ## Useful links
 
-* [My blog post (RU)](http://vas3k.ru/blog/touchbar/)
+* [Original blog post (EN)](http://vas3k.com/blog/touchbar/)
+* [Original blog post (RU)](http://vas3k.ru/blog/touchbar/)
 * [Reddit: Share your BetterTouchTool touchbar shortcuts](https://www.reddit.com/r/apple/comments/6wdfvo/share_your_bettertouchtool_touchbar_shortcuts/)
 
 
