@@ -95,6 +95,7 @@ Presets:
 Widgets:
 1. Now playing for iTunes, tap to _Next_
 2. YouTube playing in Safari
+3. YouTube playing in Chrome
 
 Presets:
 1. Finder
