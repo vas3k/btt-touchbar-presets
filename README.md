@@ -108,6 +108,28 @@ Presets:
 8. Mute/Unmute
 9. Play/Pause
 
+### @danruss: [danruss_btt.json](danruss/danruss_btt.json)
+
+![Screenshot](danruss/screenshot_danruss_btt.png)
+Widgets:
+1. YouTube playing in Chrome
+2. Now playing in Spotify
+3. Reminders: Last Reminder
+
+Presets Left:
+1. Finder
+2. Terminal
+3. Visual Studio Code
+
+Presets Right:
+1. Coffee - Sleep Computer
+2. Volume Down
+3. Volume Up
+4. Brightness Down
+5. Brightness Up
+6. Weather - Weather Icon + Temp F
+7. Time - H:mm
+
 ## Useful links
 
 * [Original blog post (EN)](http://vas3k.com/blog/touchbar/)
