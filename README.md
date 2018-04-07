@@ -152,7 +152,7 @@ Presets Right:
 6. Coffee - Sleep Computer
 7. Time - H:mm
 
-* [Click here from more informations and how to setup](gillesdubois/readme.md)
+* [Click here from more informations and how to setup](gillesdubois/README.md)
 
 ## Useful links
 
