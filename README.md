@@ -130,7 +130,7 @@ Presets Right:
 6. Weather - Weather Icon + Temp F
 7. Time - H:mm
 
-### @Louxaren: [gillesdubois_btt.json](gillesdubois/gillesdubois_btt.json)
+### @gillesdubois: [gillesdubois_btt.json](gillesdubois/gillesdubois_btt.json)
 
 ![Screenshot](gillesdubois/gillesdubois_btt_screenshot_1.png)
 ![Screenshot](gillesdubois/gillesdubois_btt_screenshot_2.png)
