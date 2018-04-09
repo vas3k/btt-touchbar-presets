@@ -157,6 +157,31 @@ Misc:
    Strip..."](https://alexw.me/2017/01/what-if-you-could-customize-your-new-touch-bar/)
 
 
+### @vladionescu: [simple_snake.json](https://github.com/vas3k/btt-touchbar-presets/blob/master/vionescu/simple_snake.json)
+
+![Simple Touchbar](vladionescu/simple_snake.png)
+![Emoji Picker](vladionescu/simple_snake-emoji_group.png)
+
+Left:
+1. ESC
+2. Emoji picker
+
+Middle widget:
+1. Spotify now playing, click to jump to next
+
+The next song title appears immediately, it doesn't wait for the now playing script to run on its timer
+
+Right:
+1. Brightness down
+2. Brightness slider
+3. Volume down
+4. Volume slider
+5. Mute
+6. Lock screen
+7. Day Month Date
+8. 12 hour clock
+
+The brightness/volume up buttons were omitted from the slider in the interest of saving space, and because I use the slider to adjust and not the buttons. The buttons are effectively just icons to remind what each slider is for.
 
 ## Useful links
 
