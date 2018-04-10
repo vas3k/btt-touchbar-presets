@@ -154,6 +154,60 @@ Presets Right:
 
 * [Click here from more informations and how to setup](gillesdubois/README.md)
 
+
+### @pavopax: [touchbar-preset.json @ pavopax/dotfiles](https://github.com/pavopax/dotfiles/blob/master/touchbar-preset.json)
+
+![Screenshot](pavopax/touchbar.jpg)
+
+Left:
+1. Finder
+1. Emacs ([icons](http://emacs.sexy/#icons))
+1. [Forklift](https://www.binarynights.com/forklift/)
+1. Notes
+
+Middle widget:
+1. iTunes song, click to jump to next
+
+Right:
+1. Play/Pause
+1. Volume down
+1. Volume up
+1. Coffee - sleep screen (*not* sleep computer)
+1. Time as `h:mm a`
+
+Misc:
+1. Hold `Fn` key to access expanded control strip or press it to toggle BTT/app
+   controls if available, via hack from [alexw.me - search "You can still
+   access the Control
+   Strip..."](https://alexw.me/2017/01/what-if-you-could-customize-your-new-touch-bar/)
+
+
+### @vladionescu: [simple_snake.json](https://github.com/vas3k/btt-touchbar-presets/blob/master/vionescu/simple_snake.json)
+
+![Simple Touchbar](vladionescu/simple_snake.png)
+![Emoji Picker](vladionescu/simple_snake-emoji_group.png)
+
+Left:
+1. ESC
+2. Emoji picker
+
+Middle widget:
+1. Spotify now playing, click to jump to next
+
+The next song title appears immediately, it doesn't wait for the now playing script to run on its timer
+
+Right:
+1. Brightness down
+2. Brightness slider
+3. Volume down
+4. Volume slider
+5. Mute
+6. Lock screen
+7. Day Month Date
+8. 12 hour clock
+
+The brightness/volume up buttons were omitted from the slider in the interest of saving space, and because I use the slider to adjust and not the buttons. The buttons are effectively just icons to remind what each slider is for.
+
 ## Useful links
 
 * [Original blog post (EN)](http://vas3k.com/blog/touchbar/)
