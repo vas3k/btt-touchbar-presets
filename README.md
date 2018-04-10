@@ -90,10 +90,10 @@ Presets:
 
 ### @surpher: [xcode-dev.json](surpher/xcode-dev.json)
 
-![Screenshot](surpher/xcode-dev.png)
+![Screenshot 1](surpher/xcode-dev.png)
 
-[System Settings](surpher/system-settings.json)  
-![Screenshot Sys Controls](surpher/system-settings.png)
+[system-controls.json](surpher/system-controls.json)  
+![Screenshot 2](surpher/system-controls.png)
 
 Widgets:
 1. Now playing for iTunes, tap to _Next_
