@@ -130,6 +130,31 @@ Presets Right:
 6. Weather - Weather Icon + Temp F
 7. Time - H:mm
 
+### @gillesdubois: [gillesdubois_btt.json](gillesdubois/gillesdubois_btt.json)
+
+![Screenshot](gillesdubois/gillesdubois_btt_screenshot_1.png)
+![Screenshot](gillesdubois/gillesdubois_btt_screenshot_2.png)
+![Screenshot](gillesdubois/gillesdubois_btt_screenshot_3.png)
+
+Presets Left:
+1. Finder
+2. Visual Studio Code
+3. iTunes : Now Playing
+3. VPN Status - Tap to connect / disconnect (Tunnelblick)
+4. Weather - Weather Icon + Temp C°
+
+Presets Right:
+1. Brightness Down
+2. Brightness Up
+3. Volume Down
+4. Volume Up
+5. Play / Pause
+6. Coffee - Sleep Computer
+7. Time - H:mm
+
+* [Click here from more informations and how to setup](gillesdubois/README.md)
+
+
 ### @pavopax: [touchbar-preset.json @ pavopax/dotfiles](https://github.com/pavopax/dotfiles/blob/master/touchbar-preset.json)
 
 ![Screenshot](pavopax/touchbar.jpg)
