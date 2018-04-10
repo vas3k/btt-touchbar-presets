@@ -92,6 +92,9 @@ Presets:
 
 ![Screenshot](surpher/xcode-dev.png)
 
+[System Settings](surpher/system-settings.json)  
+![Screenshot Sys Controls](surpher/system-settings.png)
+
 Widgets:
 1. Now playing for iTunes, tap to _Next_
 2. YouTube playing in Safari
@@ -107,6 +110,7 @@ Presets:
 7. Volume down/up
 8. Mute/Unmute
 9. Play/Pause
+10. System Controls button group (preset)
 
 ### @danruss: [danruss_btt.json](danruss/danruss_btt.json)
 
