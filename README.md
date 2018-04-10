@@ -135,9 +135,9 @@ Presets Right:
 ![Screenshot](pavopax/touchbar.jpg)
 
 Left:
-1. Finder
-1. Emacs ([icons](http://emacs.sexy/#icons))
 1. [Forklift](https://www.binarynights.com/forklift/)
+1. TextEdit
+1. Emacs ([icons](http://emacs.sexy/#icons))
 1. Notes
 
 Middle widget:
