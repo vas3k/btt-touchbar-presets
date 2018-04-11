@@ -90,7 +90,10 @@ Presets:
 
 ### @surpher: [xcode-dev.json](surpher/xcode-dev.json)
 
-![Screenshot](surpher/xcode-dev.png)
+![Screenshot 1](surpher/xcode-dev.png)
+
+[system-controls.json](surpher/system-controls.json)  
+![Screenshot 2](surpher/system-controls.png)
 
 Widgets:
 1. Now playing for iTunes, tap to _Next_
@@ -107,6 +110,7 @@ Presets:
 7. Volume down/up
 8. Mute/Unmute
 9. Play/Pause
+10. System Controls button group (preset)
 
 ### @danruss: [danruss_btt.json](danruss/danruss_btt.json)
 
@@ -130,14 +134,39 @@ Presets Right:
 6. Weather - Weather Icon + Temp F
 7. Time - H:mm
 
+### @gillesdubois: [gillesdubois_btt.json](gillesdubois/gillesdubois_btt.json)
+
+![Screenshot](gillesdubois/gillesdubois_btt_screenshot_1.png)
+![Screenshot](gillesdubois/gillesdubois_btt_screenshot_2.png)
+![Screenshot](gillesdubois/gillesdubois_btt_screenshot_3.png)
+
+Presets Left:
+1. Finder
+2. Visual Studio Code
+3. iTunes : Now Playing
+3. VPN Status - Tap to connect / disconnect (Tunnelblick)
+4. Weather - Weather Icon + Temp C°
+
+Presets Right:
+1. Brightness Down
+2. Brightness Up
+3. Volume Down
+4. Volume Up
+5. Play / Pause
+6. Coffee - Sleep Computer
+7. Time - H:mm
+
+* [Click here from more informations and how to setup](gillesdubois/README.md)
+
+
 ### @pavopax: [touchbar-preset.json @ pavopax/dotfiles](https://github.com/pavopax/dotfiles/blob/master/touchbar-preset.json)
 
 ![Screenshot](pavopax/touchbar.jpg)
 
 Left:
-1. Finder
-1. Emacs ([icons](http://emacs.sexy/#icons))
 1. [Forklift](https://www.binarynights.com/forklift/)
+1. TextEdit
+1. Emacs ([icons](http://emacs.sexy/#icons))
 1. Notes
 
 Middle widget:
