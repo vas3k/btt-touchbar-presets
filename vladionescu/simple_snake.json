@@ -1,7 +1,14 @@
 {
   "BTTPresetName" : "Default",
-  "BTTPresetUUID" : "E6EF43B7-DD73-4585-8009-56B7D618F667",
+  "BTTPresetUUID" : "948FE617-724A-4406-9A3E-C4E30610E79E",
   "BTTPresetContent" : [
+    {
+      "BTTAppBundleIdentifier" : "com.apple.finder",
+      "BTTAppName" : "Finder",
+      "BTTTriggers" : [
+
+      ]
+    },
     {
       "BTTAppBundleIdentifier" : "BT.G",
       "BTTAppName" : "Global",
@@ -9,50 +16,6 @@
 
       },
       "BTTTriggers" : [
-        {
-          "BTTWidgetWidth" : "200",
-          "BTTTriggerType" : 636,
-          "BTTTriggerTypeDescription" : "Volume Slider Widget",
-          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
-          "BTTPredefinedActionType" : -1,
-          "BTTPredefinedActionName" : "No Action",
-          "BTTEnabled" : 1,
-          "BTTOrder" : 3,
-          "BTTTriggerConfig" : {
-            "BTTTouchBarItemIconHeight" : 22,
-            "BTTTouchBarItemIconWidth" : 22,
-            "BTTTouchBarItemPlacement" : 2,
-            "BTTTouchBarItemPadding" : 0,
-            "BTTTouchBarFreeSpaceAfterButton" : "0.000000",
-            "BTTTouchBarShowLeftIconForSlider" : 1,
-            "BTTTouchBarSliderTriggerPercentage" : 0,
-            "BTTTouchBarButtonColor" : "242.000411, 78.964916, 98.080215, 255.000000",
-            "BTTTouchBarAlwaysShowButton" : "0",
-            "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000"
-          }
-        },
-        {
-          "BTTWidgetWidth" : "200",
-          "BTTTriggerType" : 637,
-          "BTTTriggerTypeDescription" : "Brightness Slider Widget",
-          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
-          "BTTPredefinedActionType" : -1,
-          "BTTPredefinedActionName" : "No Action",
-          "BTTEnabled" : 1,
-          "BTTOrder" : 2,
-          "BTTTriggerConfig" : {
-            "BTTTouchBarItemIconHeight" : 22,
-            "BTTTouchBarItemIconWidth" : 22,
-            "BTTTouchBarItemPlacement" : 2,
-            "BTTTouchBarItemPadding" : 0,
-            "BTTTouchBarFreeSpaceAfterButton" : "0.000000",
-            "BTTTouchBarShowLeftIconForSlider" : 1,
-            "BTTTouchBarSliderTriggerPercentage" : 0,
-            "BTTTouchBarButtonColor" : "246.697658, 104.067387, 116.936954, 255.000000",
-            "BTTTouchBarAlwaysShowButton" : "0",
-            "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000"
-          }
-        },
         {
           "BTTTouchBarButtonName" : "Lock Screen",
           "BTTTriggerType" : 629,
@@ -72,48 +35,6 @@
             "BTTTouchBarAlwaysShowButton" : "1",
             "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
             "BTTTouchBarOnlyShowIcon" : 1
-          }
-        },
-        {
-          "BTTWidgetWidth" : "EEEE MMMM d",
-          "BTTTriggerType" : 633,
-          "BTTTriggerTypeDescription" : "Date \/ Time Widget",
-          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
-          "BTTPredefinedActionType" : -1,
-          "BTTPredefinedActionName" : "No Action",
-          "BTTEnabled" : 1,
-          "BTTOrder" : 6,
-          "BTTTriggerConfig" : {
-            "BTTTouchBarItemIconHeight" : 22,
-            "BTTTouchBarItemIconWidth" : 22,
-            "BTTTouchBarItemPlacement" : 2,
-            "BTTTouchBarItemPadding" : 0,
-            "BTTTouchBarFreeSpaceAfterButton" : "1.000000",
-            "BTTTouchBarButtonColor" : "58.650001, 58.650001, 58.650001, 255.000000",
-            "BTTTouchBarAlwaysShowButton" : "1",
-            "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000"
-          }
-        },
-        {
-          "BTTWidgetName" : "Spotify Now Playing",
-          "BTTTriggerType" : 639,
-          "BTTTriggerTypeDescription" : "Apple Script Widget",
-          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
-          "BTTPredefinedActionType" : 172,
-          "BTTPredefinedActionName" : "Run Apple Script (enter directly as text)",
-          "BTTInlineAppleScript" : "if application \"Spotify\" is running then\r\ttell application \"Spotify\"\r\t\tif player state is playing then\r\t\t\tnext track\r\t\tend if\r\tend tell\rend if\rdelay 1\rif application \"Spotify\" is running then\r\ttell application \"Spotify\"\r\t\tif player state is playing then\r\t\t\treturn (get artist of current track) & \" - \" & (get name of current track)\r\t\telse\r\t\t\treturn \"\"\r\t\tend if\r\tend tell\rend if\rreturn \"\"",
-          "BTTEnabled" : 1,
-          "BTTOrder" : 1,
-          "BTTTriggerConfig" : {
-            "BTTTouchBarItemIconHeight" : 22,
-            "BTTTouchBarItemIconWidth" : 22,
-            "BTTTouchBarItemPadding" : 0,
-            "BTTTouchBarFreeSpaceAfterButton" : "0.000000",
-            "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
-            "BTTTouchBarAlwaysShowButton" : "1",
-            "BTTTouchBarAppleScriptString" : "if application \"Spotify\" is running then\r\ttell application \"Spotify\"\r\t\tif player state is playing then\r\t\t\treturn (get artist of current track) & \" - \" & (get name of current track)\r\t\telse\r\t\t\treturn \"\"\r\t\tend if\r\tend tell\rend if\rreturn \"\"",
-            "BTTTouchBarAlternateBackgroundColor" : "37.608368, 37.607243, 37.607889, 255.000000",
-            "BTTTouchBarScriptUpdateInterval" : 5
           }
         },
         {
@@ -179,6 +100,48 @@
           }
         },
         {
+          "BTTWidgetWidth" : "EEEE MMMM d",
+          "BTTTriggerType" : 633,
+          "BTTTriggerTypeDescription" : "Date \/ Time Widget",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : -1,
+          "BTTPredefinedActionName" : "No Action",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 6,
+          "BTTTriggerConfig" : {
+            "BTTTouchBarItemIconHeight" : 22,
+            "BTTTouchBarItemIconWidth" : 22,
+            "BTTTouchBarItemPlacement" : 2,
+            "BTTTouchBarItemPadding" : 0,
+            "BTTTouchBarFreeSpaceAfterButton" : "0.000000",
+            "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+            "BTTTouchBarAlwaysShowButton" : "1",
+            "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000"
+          }
+        },
+        {
+          "BTTWidgetName" : "Spotify Now Playing",
+          "BTTTriggerType" : 639,
+          "BTTTriggerTypeDescription" : "Apple Script Widget",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : 172,
+          "BTTPredefinedActionName" : "Run Apple Script (enter directly as text)",
+          "BTTInlineAppleScript" : "if application \"Spotify\" is running then\r\ttell application \"Spotify\"\r\t\tif player state is playing then\r\t\t\tnext track\r\t\tend if\r\tend tell\rend if\rdelay 1\rif application \"Spotify\" is running then\r\ttell application \"Spotify\"\r\t\tif player state is playing then\r\t\t\treturn (get artist of current track) & \" - \" & (get name of current track)\r\t\telse\r\t\t\treturn \"\"\r\t\tend if\r\tend tell\rend if\rreturn \"\"",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 1,
+          "BTTTriggerConfig" : {
+            "BTTTouchBarItemIconHeight" : 22,
+            "BTTTouchBarItemIconWidth" : 22,
+            "BTTTouchBarItemPadding" : 0,
+            "BTTTouchBarFreeSpaceAfterButton" : "0.000000",
+            "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+            "BTTTouchBarAlwaysShowButton" : "1",
+            "BTTTouchBarAppleScriptString" : "if application \"Spotify\" is running then\r\ttell application \"Spotify\"\r\t\tif player state is playing then\r\t\t\treturn (get artist of current track) & \" - \" & (get name of current track)\r\t\telse\r\t\t\treturn \"\"\r\t\tend if\r\tend tell\rend if\rreturn \"\"",
+            "BTTTouchBarAlternateBackgroundColor" : "37.608368, 37.607243, 37.607889, 255.000000",
+            "BTTTouchBarScriptUpdateInterval" : 5
+          }
+        },
+        {
           "BTTWidgetWidth" : "hh:mm a",
           "BTTTriggerType" : 633,
           "BTTTriggerTypeDescription" : "Date \/ Time Widget",
@@ -193,7 +156,7 @@
             "BTTTouchBarItemPlacement" : 2,
             "BTTTouchBarItemPadding" : 0,
             "BTTTouchBarFreeSpaceAfterButton" : "0.000000",
-            "BTTTouchBarButtonColor" : "58.650001, 58.650001, 58.650001, 255.000000",
+            "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
             "BTTTouchBarAlwaysShowButton" : "1",
             "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000"
           }
@@ -218,14 +181,51 @@
             "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
             "BTTTouchBarOnlyShowIcon" : 1
           }
+        },
+        {
+          "BTTWidgetWidth" : "200",
+          "BTTTriggerType" : 636,
+          "BTTTriggerTypeDescription" : "Volume Slider Widget",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : -1,
+          "BTTPredefinedActionName" : "No Action",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 3,
+          "BTTTriggerConfig" : {
+            "BTTTouchBarItemIconHeight" : 22,
+            "BTTTouchBarItemIconWidth" : 22,
+            "BTTTouchBarItemPlacement" : 2,
+            "BTTTouchBarItemPadding" : 0,
+            "BTTTouchBarFreeSpaceAfterButton" : "0.000000",
+            "BTTTouchBarShowLeftIconForSlider" : 1,
+            "BTTTouchBarSliderTriggerPercentage" : 0,
+            "BTTTouchBarButtonColor" : "242.000411, 78.964916, 98.080215, 255.000000",
+            "BTTTouchBarAlwaysShowButton" : "0",
+            "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000"
+          }
+        },
+        {
+          "BTTWidgetWidth" : "200",
+          "BTTTriggerType" : 637,
+          "BTTTriggerTypeDescription" : "Brightness Slider Widget",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : -1,
+          "BTTPredefinedActionName" : "No Action",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 2,
+          "BTTTriggerConfig" : {
+            "BTTTouchBarItemIconHeight" : 22,
+            "BTTTouchBarItemIconWidth" : 22,
+            "BTTTouchBarItemPlacement" : 2,
+            "BTTTouchBarItemPadding" : 0,
+            "BTTTouchBarFreeSpaceAfterButton" : "0.000000",
+            "BTTTouchBarShowLeftIconForSlider" : 1,
+            "BTTTouchBarSliderTriggerPercentage" : 0,
+            "BTTTouchBarButtonColor" : "246.697658, 104.067387, 116.936954, 255.000000",
+            "BTTTouchBarAlwaysShowButton" : "0",
+            "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000"
+          }
         }
-      ]
-    },
-    {
-      "BTTAppBundleIdentifier" : "com.apple.finder",
-      "BTTAppName" : "Finder",
-      "BTTTriggers" : [
-
       ]
     }
   ],
