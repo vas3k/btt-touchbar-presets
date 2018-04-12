@@ -212,6 +212,27 @@ Right:
 
 The brightness/volume up buttons were omitted from the slider in the interest of saving space, and because I use the slider to adjust and not the buttons. The buttons are effectively just icons to remind what each slider is for.
 
+### @goldenchaos: [goldenchaos-btt.json](https://raw.githubusercontent.com/GoldenChaos/GoldenChaos-BTT/master/goldenchaos-btt.json)
+
+![Photo](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Cool%20Photo.jpg?raw=true)
+
+![Screenshot 6](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%208.png?raw=true)
+![Screenshot 5](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%205.png?raw=true)
+![Screenshot 1](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%201.png?raw=true)
+![Screenshot 2](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%202.png?raw=true)
+
+- Fullscreen button also acts as esc key
+- Date and Time widget toggles Fantastical 2 menu bar when pressed (uses Fantastical 2's default keyboard shortcut)
+- Weather widget toggles Carrot menu bar when pressed (uses Carrot's default keyboard shortcut)
+- Refresh button appears next to Forward and Back buttons if Safari is open
+- Media controls and iTunes widget appear only when iTunes is running
+- iTunes Now Playing widget shows currently playing song or "Paused" if iTunes is not playing anything
+- Due Today widget shows reminders from Reminders.app that are due today, overdue, or without a due date
+- Reminders without a due date persist and automatically show the most recently added reminder
+- Persistent Show Finder widget provides easy finder access
+- Persistent Maximize Left, Center Window, and Maximize Right controls (with custom glyphs!) for window management
+- Tap on any widget to open its parent app
+
 ## Useful links
 
 * [Original blog post (EN)](http://vas3k.com/blog/touchbar/)
