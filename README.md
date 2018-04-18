@@ -238,6 +238,8 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 
 ![Screenshot](williamli/williamli_btt.v1_01.png)
 ![Screenshot](williamli/williamli_btt.v1_02.png)
+![Screenshot](williamli/williamli_btt.v1_03.png)
+![Screenshot](williamli/williamli_btt.v1_04.png)
 
 Presets Left:
 1. (AppleScript) Finder, tell Finder to open in focus, switches Space if it has to.
