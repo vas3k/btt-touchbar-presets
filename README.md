@@ -216,22 +216,38 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 
 ![Photo](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Cool%20Photo.jpg?raw=true)
 
-![Screenshot 6](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%208.png?raw=true)
-![Screenshot 5](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%205.png?raw=true)
-![Screenshot 1](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%201.png?raw=true)
-![Screenshot 2](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%202.png?raw=true)
+![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%2010.png?raw=true)
+![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%2014.png?raw=true)
+![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%2015.png?raw=true)
+![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%2016.png?raw=true)
 
-- Fullscreen button also acts as esc key
+Supported apps:
+- Finder
+- Safari
+- Chrome
+- Firefox
+- iTunes
+- Spotify
+- Reminders
+- Carrot Weather
+- Calendar
+- Fantastical 2
+
+Nifty features:
+- Fullscreen button also acts as esc key, stays docked to the left
 - Date and Time widget toggles Fantastical 2 menu bar when pressed (uses Fantastical 2's default keyboard shortcut)
-- Weather widget toggles Carrot menu bar when pressed (uses Carrot's default keyboard shortcut)
-- Refresh button appears next to Forward and Back buttons if Safari is open
-- Media controls and iTunes widget appear only when iTunes is running
-- iTunes Now Playing widget shows currently playing song or "Paused" if iTunes is not playing anything
-- Due Today widget shows reminders from Reminders.app that are due today, overdue, or without a due date
-- Reminders without a due date persist and automatically show the most recently added reminder
+- Weather widget shows condition emoji + temperature in Fahrenheit, toggles Carrot menu bar when pressed (uses Carrot's default keyboard shortcut)
 - Persistent Show Finder widget provides easy finder access
 - Persistent Maximize Left, Center Window, and Maximize Right controls (with custom glyphs!) for window management
+- Refresh button appears next to Forward and Back buttons if Safari, Chrome, or Firefox is open
+- Media controls and iTunes/Spotify widgets appear only when iTunes or Spotify is running
+- Now Playing widgets show currently playing song or "Paused" if iTunes/Spotify are not playing anything
+- Due Today widget shows reminders from Reminders.app that are due today, overdue, or without a due date
+- Reminders without a due date persist and automatically show the most recently added reminder
+- Next Event widget uses icalBuddy to get just today's upcoming calendar events (requires extra configuration)
 - Tap on any widget to open its parent app
+
+For the Calendar widget to work properly, it must first be edited to include the names of calendars you wish to display. Replace my personal defaults with yours, and make sure you've installed [icalBuddy](http://hasseg.org/icalBuddy/). You can also configure the widget to display events for additional days, for example for up to a week, by changing "eventsToday" to "eventsToday+7".
 
 
 ### @williamli (v1): [williamli_btt.v1.json](williamli/williamli_btt.v1.json)
