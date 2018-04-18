@@ -220,6 +220,7 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 ![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%2014.png?raw=true)
 ![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%2015.png?raw=true)
 ![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%2016.png?raw=true)
+![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/Screenshot%2017.png?raw=true)
 
 Supported apps:
 - Finder
@@ -236,6 +237,7 @@ Supported apps:
 
 Nifty features:
 - Fullscreen button also acts as esc key, stays docked to the left
+- Emoji button toggles a scrollable emoji widget
 - Date and Time widget toggles Fantastical 2 menu bar when pressed (uses Fantastical 2's default keyboard shortcut)
 - Weather widget shows condition emoji + temperature in Fahrenheit, toggles Carrot menu bar when pressed (uses Carrot's default keyboard shortcut)
 - Persistent Show Finder widget provides easy finder access
