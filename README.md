@@ -233,6 +233,38 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 - Persistent Maximize Left, Center Window, and Maximize Right controls (with custom glyphs!) for window management
 - Tap on any widget to open its parent app
 
+
+### @williamli (v1): [williamli_btt.v1.json](williamli/williamli_btt.v1.json)
+
+![Screenshot](williamli/williamli_btt.v1_01.png)
+![Screenshot](williamli/williamli_btt.v1_02.png)
+![Screenshot](williamli/williamli_btt.v1_03.png)
+![Screenshot](williamli/williamli_btt.v1_04.png)
+
+Presets Left:
+1. (AppleScript) Finder, tell Finder to open in focus, switches Space if it has to.
+2. Terminal
+3. Safari
+4. Firefox Developer Edition
+5. SublimeText
+6. Evernote
+7. Notes
+
+Center:
+1. (Widget) Show next todo for "Today" (if any) in *Things 3*, tap to launch.
+2. (Widget + all) Show the next appointment within next 7 days (if any), tap to launch *Fantastical 2*, can be reprogrammed to launch Calendar. Require free cli app [icalBuddy](http://hasseg.org/icalBuddy/) to access Calendar info. Configured to use "Relative Date".
+3. (Widget) YouTube playing in Safari, tap to focus app / tab.
+4. (Widget) iTunes Now Playing, tap to launch iTunes.
+5. (Widget) Spotify Now Playing, tap to launch Spotify.
+
+Presets Right:
+1. (Folder) Emojis 💩
+2. (Folder) App Switcher
+3. (Folder) Media Controls
+4. Ticking Clock - Week Month Date ⌚ Hour:Minute:Second
+
+
+
 ## Useful links
 
 * [Original blog post (EN)](http://vas3k.com/blog/touchbar/)
