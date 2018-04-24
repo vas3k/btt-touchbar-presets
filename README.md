@@ -286,6 +286,23 @@ Presets Right:
 3. (Folder) Media Controls
 4. Ticking Clock - Week Month Date ⌚ Hour:Minute:Second
 
+### @claydugo: [clay-btt.json](https://github.com/claydugo/btt-touchbar/blob/master/clay-btt.json)
+
+![Screenshot 1](clay/clay-btt-presets.png?raw=true)
+
+Widgets:
+1) App Switcher
+
+Presets:
+1) Open Finder to home directory (will have to edit to your own home directory)
+2) Open current directory in Sublime Text
+3) Open Better Touch Tool Color Picker
+4) Take screenshot and edit in Better Touch Tool
+5) Coffee Break/Lock Screen
+6) Date/Time Widget (Press to toggle Better Touch tool)
+
+[Settings](https://github.com/claydugo/btt-touchbar/blob/master/README.md)
+
 
 
 ## Useful links
