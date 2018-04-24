@@ -288,7 +288,7 @@ Presets Right:
 
 ### @claydugo: [clay-btt.json](https://github.com/claydugo/btt-touchbar/blob/master/clay-btt.json)
 
-![Screenshot 1](clay-btt-presets.png?raw=true)
+![Screenshot 1](clay/clay-btt-presets.png?raw=true)
 
 Widgets:
 1) App Switcher
