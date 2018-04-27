@@ -259,7 +259,7 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 
 #### Required Plugins:
 
-- [High Sierra Media Key Enabler](http://milgra.com/high-sierra-media-key-enabler.html) for media controls
+- [High Sierra Media Key Enabler](http://milgra.com/high-sierra-media-key-enabler.html) with "Pause if no player is running" enabled for media controls
 - [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) and [JSON Helper](http://www.mousedown.net/mouseware/JSONHelper.html) for the weather widget
 - [icalBuddy](http://hasseg.org/icalBuddy/) for the calendar widget
 
