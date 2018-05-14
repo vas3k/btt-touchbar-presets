@@ -242,8 +242,12 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 
 - Thoughtfully considered UI and UX designed to *fully* replace the default Touch Bar
 - Fullscreen button doubles as esc key, *always* stays docked to the left
+- Two finger slide on the Touch Bar to change volume
+- Three finger slide on the Touch Bar to change brightness
+- Hold down Volume Down button to mute
 - Hold Option/Alt to expand the function strip
 - Emoji button toggles scrollable emoji widget
+- App Switcher button toggles scrollable app switcher widget
 - Date and Time widget toggles Fantastical 2 menu bar when pressed (uses Fantastical 2's default keyboard shortcut)
 - Weather widget shows condition emoji + temperature in Fahrenheit, toggles Carrot menu bar when pressed (uses Carrot's default keyboard shortcut)
 - Persistent Show Finder button for easy Finder access
