@@ -328,6 +328,26 @@ Presets:
 
 [Settings](https://github.com/claydugo/btt-touchbar/blob/master/README.md)
 
+### @ [canato](https://stackoverflow.com/users/3117650/canato?tab=profile): [CanatoAmazingTouchBar.json](https://gitlab.com/Canato/AmazingTouchBar.git)
+
+![CanatoAmazingTouchBar](canato/CanatoAmazingTouchBar.png?)
+
+1. **Coffe Break**: Lock the Screen;
+
+2. **Keep Icon:** Open my Google Chrome and the Keep page (*normally I use safari, but not for this, if is already open just show Google Chrome*);
+
+3. **Play/Pause:** Stop and Play Music in Spotify and iTunes. If nothing is open, it open the spotify (*first click*) and play music (*second click*);
+
+4. **Show Music/Video:** Here it display the music Spotify/iTunes or the video on Youtube that you are watching/listening;
+
+5. **Weather**: Funny here, because it show the weather with a nice icon, I change click the behavior. Don’t open the weather website but **clean the trash can**;
+
+6. **Mouse Battery**: Very obvious, before it had a icon, but I removed because was only wasting space;
+
+7. **Hour**: Show the “current” time, one of the best feats! But when you click I “made it to” **take screenshots**
+
+   [Medium post for lazy friends](https://medium.com/@vcanato/making-macbook-touchbar-really-amazing-2a8d9118a9c0)
+
 
 
 ## Useful links
