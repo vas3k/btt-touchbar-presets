@@ -212,7 +212,7 @@ Right:
 
 The brightness/volume up buttons were omitted from the slider in the interest of saving space, and because I use the slider to adjust and not the buttons. The buttons are effectively just icons to remind what each slider is for.
 
-### @goldenchaos: [goldenchaos-btt.json](https://raw.githubusercontent.com/GoldenChaos/GoldenChaos-BTT/master/goldenchaos-btt.json) (View [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT))
+### @goldenchaos: [goldenchaos-btt.bttpreset](https://github.com/GoldenChaos/GoldenChaos-BTT/raw/master/goldenchaos-btt.bttpreset) (View [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT))
 
 ![Photo](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/cool-photo.jpg?raw=true)
 
