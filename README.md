@@ -216,7 +216,7 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 
 ![Photo](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/cool-photo.jpg?raw=true)
 
-#### Screenshot tour
+#### Screenshots:
 <p align="center"><sub>The default set of keys if nothing is open; Fullscreen button doubles as escape key and always stays docked to the left</sub></p>
 
 ![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-1.png)
@@ -236,7 +236,7 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 
 ![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-7.png)
 
-#### Supported apps:
+#### Currently supported apps:
 
 - Finder
 - Safari
@@ -251,10 +251,10 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 - Calendar
 - Fantastical 2
 
-#### Nifty features:
+#### Full list of features:
 
-- Thoughtfully considered UI and UX designed to *fully* replace the default Touch Bar
-- Fullscreen button doubles as esc key, *always* stays docked to the left
+- Designed to *completely* replace the stock Touch Bar interface
+- Fullscreen button doubles as esc key, always docked to the left
 - Two finger slide on the Touch Bar to change volume
 - Three finger slide on the Touch Bar to change brightness
 - Hold down Volume Down button to mute
@@ -274,13 +274,13 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 - Next Event widget uses [icalBuddy](http://hasseg.org/icalBuddy/) to get just today's upcoming calendar events (requires extra configuration)
 - Tap on any widget to open its parent app
 
-#### Required Plugins:
+#### Required helper apps:
 
 - [High Sierra Media Key Enabler](http://milgra.com/high-sierra-media-key-enabler.html) with "Pause if no player is running" enabled for media controls
 - [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) and [JSON Helper](http://www.mousedown.net/mouseware/JSONHelper.html) for the weather widget
 - [icalBuddy](http://hasseg.org/icalBuddy/) for the calendar widget
 
-#### Media Controls Configuration:
+#### Media controls configuration:
 
 [High Sierra Media Key Enabler](http://milgra.com/high-sierra-media-key-enabler.html) with "Pause if no player is running" enabled is strongly recommended. Appropriate media controls are displayed conditionally based on the following hierarchy:
 
@@ -290,7 +290,7 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 
 If no media player is running, and Safari is open to a YouTube video, only the Play/Pause button will be shown. In any other case, all media controls are available.
 
-#### Calendar Widget Configuration
+#### Calendar widget configuration
 
 For the Calendar widget to work properly, it must first be edited to include the names of calendars you wish to display. Replace my personal defaults with yours, and make sure you've installed [icalBuddy](http://hasseg.org/icalBuddy/). You can also configure the widget to display events for additional days, for example for up to a week, by changing "eventsToday" to "eventsToday+7".
 
