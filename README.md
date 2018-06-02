@@ -216,13 +216,25 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 
 ![Photo](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/cool-photo.jpg?raw=true)
 
-![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-1.png?raw=true)
-![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-2.png?raw=true)
-![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-3.png?raw=true)
-![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-4.png?raw=true)
-![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-5.png?raw=true)
-![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-6.png?raw=true)
-![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-7.png?raw=true)
+#### Screenshot tour
+<p align="center"><sub>The default set of keys if nothing is open; Fullscreen button doubles as escape key and always stays docked to the left</sub></p>
+
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-1.png)
+
+<p align="center"><sub>Contextual buttons and widgets populate the scrollable container as you open and close corresponding apps; Tap on any widget to open its parent app</sub></p>
+
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-2.png)
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-4.png)
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-3.png)
+
+<p align="center"><sub>Emoji and app switcher widgets take over the scrollable container</sub></p>
+
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-5.png)
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-6.png)
+
+<p align="center"><sub>Hold down alt/option for an expanded control strip</sub></p>
+
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-7.png)
 
 #### Supported apps:
 
