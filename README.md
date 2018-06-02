@@ -212,7 +212,7 @@ Right:
 
 The brightness/volume up buttons were omitted from the slider in the interest of saving space, and because I use the slider to adjust and not the buttons. The buttons are effectively just icons to remind what each slider is for.
 
-### @goldenchaos: [goldenchaos-btt.bttpresetcompressed](btt://importviaurl/https://share.folivora.ai/presets/downloadPreset/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb3dubG9hZFVVSUQiOiI5N2RhMTJlZi0zZTc4LTRhNmEtYTgzMS04N2U3MDdmNWUwNDMiLCJpYXQiOjE1Mjc5MTE1MjksImV4cCI6MTUyNzkxNTEyOX0.NPThc5h5fTUTAOBjzVaBpNilPj-ixv1hbwmbRKi63wc) (View [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT))
+### @goldenchaos: [goldenchaos-btt.bttpresetcompressed](https://github.com/GoldenChaos/GoldenChaos-BTT/raw/master/goldenchaos-btt.bttpresetcompressed?raw=true) (View [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT))
 
 ![Photo](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/cool-photo.jpg?raw=true)
 
