@@ -75,7 +75,7 @@ Version 1: [toxblh_v1.json](toxblh/toxblh_v1.json)
 
 ![Screenshot 2](toxblh/TouchBarShot.png?raw=true)
 
-Widgets:  
+Widgets:
 
 Presets:
 1. Finder
@@ -92,7 +92,7 @@ Presets:
 
 ![Screenshot 1](surpher/xcode-dev.png)
 
-[system-controls.json](surpher/system-controls.json)  
+[system-controls.json](surpher/system-controls.json)
 ![Screenshot 2](surpher/system-controls.png)
 
 Widgets:
@@ -361,7 +361,20 @@ Presets:
 
    [Medium post for lazy friends](https://medium.com/@vcanato/making-macbook-touchbar-really-amazing-2a8d9118a9c0)
 
+### @ [ng-vu](https://github.com/ng-vu): [btt.json](ng-vu/btt.json) with a Pomodoro clock
 
+![ng-vu's Touchbar](ng-vu/screenshot1.png)
+![ng-vu's Touchbar](ng-vu/screenshot2.png)
+
+1. **App Widget**: Quickly switch between apps.
+2. **Stop/Switch Pomodoro Mode**: Stop or change Pomodoro session between work and break.
+3. **Start/Pause Pomodoro Clock**: Tap to start/pause the Pomodoro clock (need to setup a background command, [see more information](https://github.com/ng-vu/tomato)).
+4. **Sleep**: Tap to sleep the computer.
+5. **Battery**: Display battery status.
+6. **Mute**: Tap to toggle speaker.
+7. **Clock**: Display current clock.
+8. **Two-fingers** swipe left/right to adjust speaker volume down/up.
+9. **Three-fingers** swipe left/right to adjust display brightness down/up.
 
 ## Useful links
 
