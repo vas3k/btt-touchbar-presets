@@ -15,7 +15,7 @@ After installing BetterTouchTool, you can import/export configurations from the 
 ## Presets
 
 
-### @vas3k: [vas3k_btt_v2.json](vas3k/vas3k_btt_v2.json)
+### @vas3k: [vas3k v2.bttpreset](vas3k/vas3k v2.bttpreset)
 
 ![Screenshot1](vas3k/screenshot.png?raw=true)
 ![Screenshot2](vas3k/screenshot2.png?raw=true)
@@ -75,7 +75,7 @@ Version 1: [toxblh_v1.json](toxblh/toxblh_v1.json)
 
 ![Screenshot 2](toxblh/TouchBarShot.png?raw=true)
 
-Widgets:  
+Widgets:
 
 Presets:
 1. Finder
@@ -92,7 +92,7 @@ Presets:
 
 ![Screenshot 1](surpher/xcode-dev.png)
 
-[system-controls.json](surpher/system-controls.json)  
+[system-controls.json](surpher/system-controls.json)
 ![Screenshot 2](surpher/system-controls.png)
 
 Widgets:
@@ -212,18 +212,31 @@ Right:
 
 The brightness/volume up buttons were omitted from the slider in the interest of saving space, and because I use the slider to adjust and not the buttons. The buttons are effectively just icons to remind what each slider is for.
 
-### @goldenchaos: [goldenchaos-btt.json](https://raw.githubusercontent.com/GoldenChaos/GoldenChaos-BTT/master/goldenchaos-btt.json) (View [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT))
+### @goldenchaos: [View the GoldenChaos-BTT preset on share.folivora.ai](https://share.folivora.ai/sharedPreset/97da12ef-3e78-4a6a-a831-87e707f5e043)
 
 ![Photo](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/cool-photo.jpg?raw=true)
 
-![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-1.png?raw=true)
-![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-2.png?raw=true)
-![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-4.png?raw=true)
-![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-5.png?raw=true)
-![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-3.png?raw=true)
-![Screenshot](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-6.png?raw=true)
+#### Screenshots:
+<p align="center"><sub>The default set of keys if nothing is open; Fullscreen button doubles as escape key and always stays docked to the left</sub></p>
 
-#### Supported apps:
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-1.png?raw=true)
+
+<p align="center"><sub>Contextual buttons and widgets populate the scrollable container as you open and close corresponding apps; Tap on any widget to open its parent app</sub></p>
+
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-2.png?raw=true)
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-4.png?raw=true)
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-3.png?raw=true)
+
+<p align="center"><sub>Emoji and app switcher widgets take over the scrollable container</sub></p>
+
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-5.png?raw=true)
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-6.png?raw=true)
+
+<p align="center"><sub>Hold down alt/option for an expanded control strip</sub></p>
+
+![](https://github.com/GoldenChaos/GoldenChaos-BTT/blob/master/screenshot-7.png?raw=true)
+
+#### Currently supported apps:
 
 - Finder
 - Safari
@@ -238,10 +251,10 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 - Calendar
 - Fantastical 2
 
-#### Nifty features:
+#### Full list of features:
 
-- Thoughtfully considered UI and UX designed to *fully* replace the default Touch Bar
-- Fullscreen button doubles as esc key, *always* stays docked to the left
+- Designed to *completely* replace the stock Touch Bar interface
+- Fullscreen button doubles as esc key, always docked to the left
 - Two finger slide on the Touch Bar to change volume
 - Three finger slide on the Touch Bar to change brightness
 - Hold down Volume Down button to mute
@@ -254,20 +267,20 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 - Persistent Maximize Left, Center Window, and Maximize Right controls for window management
 - Refresh button appears next to Forward and Back buttons if Safari, Chrome, or Firefox is open
 - Media controls and iTunes/Spotify widgets appear only when iTunes or Spotify is running
-- Now Playing widgets show currently playing song or "Paused" if iTunes/Spotify are not playing anything
+- Now Playing widgets show currently playing track info (with album art for iTunes!) or "Paused" if iTunes/Spotify are paused
 - Due Today widget shows reminders from Reminders.app that are due today, overdue, or without a due date
 - Reminders without a due date persist and automatically show the most recently added reminder
 - Next Thing widget grabs your next reminder from Things 3
 - Next Event widget uses [icalBuddy](http://hasseg.org/icalBuddy/) to get just today's upcoming calendar events (requires extra configuration)
 - Tap on any widget to open its parent app
 
-#### Required Plugins:
+#### Required helper apps:
 
 - [High Sierra Media Key Enabler](http://milgra.com/high-sierra-media-key-enabler.html) with "Pause if no player is running" enabled for media controls
 - [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) and [JSON Helper](http://www.mousedown.net/mouseware/JSONHelper.html) for the weather widget
 - [icalBuddy](http://hasseg.org/icalBuddy/) for the calendar widget
 
-#### Media Controls Configuration:
+#### Media controls configuration:
 
 [High Sierra Media Key Enabler](http://milgra.com/high-sierra-media-key-enabler.html) with "Pause if no player is running" enabled is strongly recommended. Appropriate media controls are displayed conditionally based on the following hierarchy:
 
@@ -277,7 +290,7 @@ The brightness/volume up buttons were omitted from the slider in the interest of
 
 If no media player is running, and Safari is open to a YouTube video, only the Play/Pause button will be shown. In any other case, all media controls are available.
 
-#### Calendar Widget Configuration
+#### Calendar widget configuration
 
 For the Calendar widget to work properly, it must first be edited to include the names of calendars you wish to display. Replace my personal defaults with yours, and make sure you've installed [icalBuddy](http://hasseg.org/icalBuddy/). You can also configure the widget to display events for additional days, for example for up to a week, by changing "eventsToday" to "eventsToday+7".
 
@@ -348,7 +361,20 @@ Presets:
 
    [Medium post for lazy friends](https://medium.com/@vcanato/making-macbook-touchbar-really-amazing-2a8d9118a9c0)
 
+### @ [ng-vu](https://github.com/ng-vu): [btt.json](ng-vu/btt.json) with a Pomodoro clock
 
+![ng-vu's Touchbar](ng-vu/screenshot1.png)
+![ng-vu's Touchbar](ng-vu/screenshot2.png)
+
+1. **App Widget**: Quickly switch between apps.
+2. **Stop/Switch Pomodoro Mode**: Stop or change Pomodoro session between work and break.
+3. **Start/Pause Pomodoro Clock**: Tap to start/pause the Pomodoro clock (need to setup a background command, [see more information](https://github.com/ng-vu/tomato)).
+4. **Sleep**: Tap to sleep the computer.
+5. **Battery**: Display battery status.
+6. **Mute**: Tap to toggle speaker.
+7. **Clock**: Display current clock.
+8. **Two-fingers** swipe left/right to adjust speaker volume down/up.
+9. **Three-fingers** swipe left/right to adjust display brightness down/up.
 
 ## Useful links
 
