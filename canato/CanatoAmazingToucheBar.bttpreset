@@ -19,7 +19,7 @@
     "BTTLastClamshellState" : false,
     "BSTSnapAreaDefaultShowPictogram" : false,
     "BTTAllowThumbIfAllFingersArePlacedSimultaneously" : true,
-    "BTTShowESCWhenControlStripHidden" : true,
+    "BTTShowESCWhenControlStripHidden" : false,
     "BTTFreeSpaceAfterBTT" : 20,
     "BTTForceNormalClickPressure3F" : 150,
     "BSTSnapAreaDefaultBorderColor" : "0.000000, 0.000000, 0.000000, 255.000000",
@@ -129,7 +129,7 @@
     "BTTTouchBarVisible" : true,
     "BTTTouchBarUseMonoSpacedFont" : true
   },
-  "BTTPresetUUID" : "866C1ADF-A467-42BF-9D84-65B07A12C741",
+  "BTTPresetUUID" : "ED12D09B-FE19-42A8-B14A-69C3F7CD7618",
   "BTTPresetContent" : [
     {
       "BTTAppBundleIdentifier" : "com.apple.finder",
