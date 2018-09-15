@@ -300,7 +300,7 @@ For the Calendar widget to work properly, it must first be edited to include the
 ![Screenshot](williamli/williamli_btt.v1_01.png)
 ![Screenshot](williamli/williamli_btt.v1_02.png)
 ![Screenshot](williamli/williamli_btt.v1_03.png)
-![Screenshot](williamli/williamli_btt.v1_04.png)
+![Screenshot](williamli/williamli_btt.v1_05.png)
 
 Presets Left:
 1. (AppleScript) Finder, tell Finder to open in focus, switches Space if it has to.
@@ -323,6 +323,13 @@ Presets Right:
 2. (Folder) App Switcher
 3. (Folder) Media Controls
 4. Ticking Clock - Week Month Date ⌚ Hour:Minute:Second
+
+Media Controls:
+1. Light / Dark mode toggle for MacOS Mojave and Alfred (Alfred macOS / Alfred macOS Dark)
+2. Screen brightness
+3. System volume
+4. Mute
+5. Play
 
 ### @claydugo: [clay-btt.json](https://github.com/claydugo/btt-touchbar/blob/master/clay-btt.json)
 
