@@ -324,6 +324,13 @@ Presets Right:
 3. (Folder) Media Controls
 4. Ticking Clock - Week Month Date ⌚ Hour:Minute:Second
 
+Media Controls:
+1. Light / Dark mode toggle for MacOS Mojave and Alfred (Alfred macOS / Alfred macOS Dark)
+2. Screen brightness
+3. System volume
+4. Mute
+5. Play
+
 ### @claydugo: [clay-btt.json](https://github.com/claydugo/btt-touchbar/blob/master/clay-btt.json)
 
 ![Screenshot 1](clay/clay-btt-presets.png?raw=true)
