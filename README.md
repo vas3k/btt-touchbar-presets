@@ -300,7 +300,7 @@ For the Calendar widget to work properly, it must first be edited to include the
 ![Screenshot](williamli/williamli_btt.v1_01.png)
 ![Screenshot](williamli/williamli_btt.v1_02.png)
 ![Screenshot](williamli/williamli_btt.v1_03.png)
-![Screenshot](williamli/williamli_btt.v1_04.png)
+![Screenshot](williamli/williamli_btt.v1_05.png)
 
 Presets Left:
 1. (AppleScript) Finder, tell Finder to open in focus, switches Space if it has to.
