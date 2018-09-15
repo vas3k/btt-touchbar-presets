@@ -15,7 +15,7 @@ After installing BetterTouchTool, you can import/export configurations from the 
 ## Presets
 
 
-### @vas3k: [vas3k v2.bttpreset](vas3k/vas3k v2.bttpreset)
+### @vas3k: [vas3k v2.bttpreset](vas3k/vas3k%20v2.bttpreset)
 
 ![Screenshot1](vas3k/screenshot.png?raw=true)
 ![Screenshot2](vas3k/screenshot2.png?raw=true)
