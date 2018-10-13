@@ -2,6 +2,8 @@
 
 Here we collect cool touch bar presets for [BetterTouchTool](https://boastr.net). Feel free to send your own configs in pull-requests. Do not forget to attach a screenshot (⇧⌘6) and write some description to this README.
 
+**upd: Repo is closed.** Much time has passed since the [original article](http://vas3k.com/blog/touchbar/) was written. BTT author has added many cool features that you can use instead of our hand-made widgets. The bad news: our presets are mostly not working now. At the beginning we tried to update them for each new version of BTT, but there were so many incompatible changes that we gave up. So, just use this article as a guide and you will be able to create something even cooler. I am very proud that we had such an impact on touchbar customization and BTT itself. Thank you, guys!
+
 ![Screenshot](static/logo.jpg?raw=true)
 
 
