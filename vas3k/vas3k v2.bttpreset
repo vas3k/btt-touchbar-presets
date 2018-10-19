@@ -389,7 +389,7 @@
           }
         },
         {
-          "BTTWidgetName" : "Spotify: Play\/Payse",
+          "BTTWidgetName" : "Spotify: Play\/Pause",
           "BTTTriggerType" : 639,
           "BTTTriggerTypeDescription" : "Apple Script Widget",
           "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
