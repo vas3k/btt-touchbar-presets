@@ -1,0 +1,29 @@
+{
+  "BTTTriggerType" : 633,
+  "BTTTriggerTypeDescription" : "Date \/ Time Widget",
+  "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+  "BTTPredefinedActionType" : -1,
+  "BTTPredefinedActionName" : "No Action",
+  "BTTEnabled2" : 1,
+  "BTTUUID" : "CB0B0081-1695-4E59-8792-5D3452FAA994",
+  "BTTEnabled" : 1,
+  "BTTModifierMode" : 0,
+  "BTTOrder" : 0,
+  "BTTDisplayOrder" : 20,
+  "BTTMergeIntoTouchBarGroups" : 0,
+  "BTTTriggerConfig" : {
+    "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+    "BTTTouchBarDateFormat" : "HH:mm",
+    "BTTTouchBarTimeZoneLocation" : "Europe\/Paris",
+    "BTTTouchBarItemPlacement" : 2,
+    "BTTTouchBarItemIconWidth" : 22,
+    "BTTTouchBarButtonCornerRadius" : 6,
+    "BTTTouchBarFontColor" : "255.000000, 255.000000, 255.000000, 255.000000",
+    "BTTTouchBarAlwaysShowButton" : true,
+    "BTTTouchBarDateWidgetTimeZone" : 0,
+    "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
+    "BTTTouchBarFreeSpaceAfterButton" : 0,
+    "BTTTouchBarItemIconHeight" : 22,
+    "BTTTouchBarItemPadding" : 0
+  }
+}

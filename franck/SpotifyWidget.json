@@ -1,0 +1,31 @@
+{
+  "BTTTriggerType" : 652,
+  "BTTTriggerTypeDescription" : "Now Playing Widget",
+  "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+  "BTTPredefinedActionType" : 23,
+  "BTTPredefinedActionName" : "Play\/Pause",
+  "BTTEnabled2" : 1,
+  "BTTUUID" : "E2410D23-0D95-46CB-98AF-D8CF64A1EF42",
+  "BTTEnabled" : 1,
+  "BTTModifierMode" : 0,
+  "BTTOrder" : 10,
+  "BTTDisplayOrder" : 0,
+  "BTTMergeIntoTouchBarGroups" : 0,
+  "BTTTriggerConfig" : {
+    "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+    "BTTTouchBarItemIconWidth" : 22,
+    "BTTTouchBarButtonFontSize" : 14,
+    "BTTTouchBarLine1MaxChars" : 25,
+    "BTTTouchBarDefaultPlayer" : 1,
+    "BTTTouchBarButtonCornerRadius" : 6,
+    "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
+    "BTTTouchBarItemPlacement" : 0,
+    "BTTTouchBarBringPlayerToFront" : 1,
+    "BTTTouchBarLine2MaxChars" : 35,
+    "BTTTouchBarFreeSpaceAfterButton" : 5,
+    "BTTTouchBarLine1Format" : "{title}",
+    "BTTTouchBarItemIconHeight" : 22,
+    "BTTTouchBarLine2Format" : "{artist} | {album}",
+    "BTTTouchBarItemPadding" : 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "BTTWidgetName" : "Weather",
+  "BTTTriggerType" : 651,
+  "BTTTriggerTypeDescription" : "Weather Widget",
+  "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+  "BTTPredefinedActionType" : 59,
+  "BTTPredefinedActionName" : "Open URL \/ Open URL With Selection",
+  "BTTOpenURL" : "http:\/\/www.meteofrance.com\/accueil",
+  "BTTEnabled2" : 1,
+  "BTTUUID" : "8F36B7D8-CFF5-45A5-AF69-6163532EBFE8",
+  "BTTEnabled" : 1,
+  "BTTModifierMode" : 0,
+  "BTTOrder" : 1,
+  "BTTDisplayOrder" : 18,
+  "BTTMergeIntoTouchBarGroups" : 0,
+  "BTTTriggerConfig" : {
+    "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+    "BTTTouchBarWeatherAutoLocation" : true,
+    "BTTTouchBarItemIconWidth" : 22,
+    "BTTTouchBarItemPlacement" : 2,
+    "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
+    "BTTTouchBarButtonCornerRadius" : 6,
+    "BTTTouchBarWeatherDay" : 0,
+    "BTTTouchBarIconTextOffset" : 5,
+    "BTTTouchBarButtonName" : "Weather",
+    "BTTTouchBarFreeSpaceAfterButton" : 5,
+    "BTTTouchBarWeatherFormat" : "{icon} {temp}{unit}",
+    "BTTTouchBarItemIconHeight" : 22,
+    "BTTTouchBarItemPadding" : 0
+  }
+}

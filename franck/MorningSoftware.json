@@ -1,0 +1,27 @@
+{
+  "BTTTouchBarButtonName" : "⎈",
+  "BTTTriggerType" : 629,
+  "BTTTriggerTypeDescription" : "Touch Bar button",
+  "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+  "BTTPredefinedActionType" : 137,
+  "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+  "BTTTerminalCommand" : "open -a Google\\ Chrome && open -a Slack && open -a Mail",
+  "BTTEnabled2" : 1,
+  "BTTUUID" : "0B03D4BB-CC9A-470F-A8F5-D7D79613753A",
+  "BTTEnabled" : 1,
+  "BTTModifierMode" : 0,
+  "BTTOrder" : 7,
+  "BTTDisplayOrder" : 0,
+  "BTTMergeIntoTouchBarGroups" : 0,
+  "BTTTriggerConfig" : {
+    "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
+    "BTTTouchBarItemIconHeight" : 27,
+    "BTTTouchBarButtonCornerRadius" : 6,
+    "BTTTouchBarItemPlacement" : 0,
+    "BTTTouchBarButtonName" : "⎈",
+    "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+    "BTTTouchBarItemIconWidth" : 27,
+    "BTTTouchBarFreeSpaceAfterButton" : 5,
+    "BTTTouchBarItemPadding" : 0
+  }
+}
