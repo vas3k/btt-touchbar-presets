@@ -1,4 +1,6 @@
-- Static touch bar button 'ESC'
+My permanent working Touch bar version:
+
+- Static Touch bar button 'ESC'
 - Finder launch
 - Sublime Text 3 launch
 - Notes (default app) launch
@@ -10,3 +12,11 @@
 - Time
 - Coffee break
 - Static toggle: Do not disturb mode
+
+
+
+And some thing:
+
+* fixed weather widget
+* disabled BTT icon on Touch bar
+* fixed space between icons
