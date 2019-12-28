@@ -1,0 +1,12 @@
+- Static touch bar button 'ESC'
+- Finder launch
+- Sublime Text 3 launch
+- Notes (default app) launch
+- Telegram (desktop app) launch
+- Terminal launch
+- Volume slider
+- Brightness slider
+- Weather
+- Time
+- Coffee break
+- Static toggle: Do not disturb mode
