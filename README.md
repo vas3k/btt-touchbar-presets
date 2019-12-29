@@ -1,8 +1,7 @@
-# BetterTouchTool Touch Bar Presets
+# BetterTouchTool Touch Bar Preset
 
 [Official site](https://folivora.ai/)
 
----
 
 ![Screenshot](static/btt-preset-lulzseq.png?raw=true)
 
