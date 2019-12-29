@@ -1,5 +1,4 @@
 My permanent working Touch bar version:
-
 - Static Touch bar button 'ESC'
 - Finder launch
 - Sublime Text 3 launch
@@ -13,10 +12,7 @@ My permanent working Touch bar version:
 - Coffee break
 - Static toggle: Do not disturb mode
 
-
-
 And some thing:
-
-* fixed weather widget
-* disabled BTT icon on Touch bar
+* fixed weather widget (use system widget)
+* disabled BTT icon on Touch bar (more free space)
 * fixed space between icons
