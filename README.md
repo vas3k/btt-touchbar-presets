@@ -1,6 +1,6 @@
 # BetterTouchTool Touch Bar Presets
 
-Here we collect cool touch bar presets for [BetterTouchTool](https://boastr.net). Feel free to send your own configs in pull-requests. Do not forget to attach a screenshot (⇧⌘6) and write some description to this README.
+[Official site](https://folivora.ai/)
 
 ---
 
